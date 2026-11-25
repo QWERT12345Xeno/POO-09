@@ -1,0 +1,1 @@
+Não testei no streamlit pq termux android no meu celular não conseguiu instalar, apenas rodei num bash direto.
